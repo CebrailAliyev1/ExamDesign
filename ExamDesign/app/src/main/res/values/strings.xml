@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExamDesign</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="full_name">full name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_e_mail_here">Enter your e-mail here</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="at_least_8_characters">At least 8 characters</string>
+    <string name="both_uppercase_and_lowercase_characters">Both uppercase and lowercase characters</string>
+    <string name="at_least_one_number_or_symbol">At least one number or symbol</string>
+    <string name="by_continuing_you_accept_our_privacy_policy_and_term_of_use">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="by_continuing_you_accept_our_privacy_policy_and_term_of_use1">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">Or</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
